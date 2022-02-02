@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttry/static/css/main.1a8a0596.css",
+    "main.js": "/reacttry/static/js/main.9b901eb1.js",
+    "index.html": "/reacttry/index.html",
+    "main.1a8a0596.css.map": "/reacttry/static/css/main.1a8a0596.css.map",
+    "main.9b901eb1.js.map": "/reacttry/static/js/main.9b901eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.9b901eb1.js"
+  ]
+}
